@@ -1,4 +1,4 @@
-package com.ef.utils;
+package com.broodcamp.utils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

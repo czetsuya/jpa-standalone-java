@@ -1,10 +1,10 @@
-package com.ef;
+package com.broodcamp;
 
 import java.text.ParseException;
 import java.util.Date;
 
-import com.ef.model.DurationEnum;
-import com.ef.utils.DateUtils;
+import com.broodcamp.model.DurationEnum;
+import com.broodcamp.utils.DateUtils;
 
 /**
  * @author Edward P. Legaspi

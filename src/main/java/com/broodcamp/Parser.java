@@ -1,6 +1,6 @@
-package com.ef;
+package com.broodcamp;
 
-import com.ef.model.DurationEnum;
+import com.broodcamp.model.DurationEnum;
 
 /**
  * @author Edward P. Legaspi

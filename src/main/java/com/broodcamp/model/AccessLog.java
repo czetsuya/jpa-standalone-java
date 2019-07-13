@@ -1,4 +1,4 @@
-package com.ef.model;
+package com.broodcamp.model;
 
 import java.text.ParseException;
 import java.util.Date;
@@ -12,7 +12,7 @@ import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 
-import com.ef.utils.DateUtils;
+import com.broodcamp.utils.DateUtils;
 
 /**
  * @author Edward P. Legaspi

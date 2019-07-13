@@ -1,4 +1,4 @@
-package com.ef;
+package com.broodcamp;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -12,11 +12,11 @@ import java.util.regex.Pattern;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 
-import com.ef.model.AccessLog;
-import com.ef.model.BlockIp;
-import com.ef.model.DurationEnum;
-import com.ef.persistence.PersistenceManager;
-import com.ef.utils.DateUtils;
+import com.broodcamp.model.AccessLog;
+import com.broodcamp.model.BlockIp;
+import com.broodcamp.model.DurationEnum;
+import com.broodcamp.persistence.PersistenceManager;
+import com.broodcamp.utils.DateUtils;
 
 /**
  * @author Edward P. Legaspi

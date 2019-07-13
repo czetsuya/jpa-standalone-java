@@ -1,4 +1,4 @@
-package com.ef.model;
+package com.broodcamp.model;
 
 /**
  * @author Edward P. Legaspi
