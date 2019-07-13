@@ -15,7 +15,7 @@ public enum PersistenceManager {
 	private EntityManagerFactory emFactory;
 
 	private PersistenceManager() {
-		emFactory = Persistence.createEntityManagerFactory("WalletHubPU");
+		emFactory = Persistence.createEntityManagerFactory("BroodcampPU");
 	}
 
 	public EntityManager getEntityManager() {
