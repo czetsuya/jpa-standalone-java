@@ -13,8 +13,8 @@ public class Parser {
 
 	public static void main(String[] args) {
 		
-		String errString = "Usage: " + "\njava -cp \"parser.jar\" com.ef.Parser --startDate=2017-01-01.13:00:00 --duration=hourly --threshold=100 --accesslog=/tmp/access.log"
-				+ "\njava -cp \"parser.jar\" com.ef.Parser --startDate=2017-01-01.13:00:00 --duration=daily --threshold=250 --accesslog=/tmp/access.log";
+		String errString = "Usage: " + "\njava -cp \"parser.jar\" com.broodcamp.Parser --startDate=2017-01-01.13:00:00 --duration=hourly --threshold=100 --accesslog=/tmp/access.log"
+				+ "\njava -cp \"parser.jar\" com.broodcamp.Parser --startDate=2017-01-01.13:00:00 --duration=daily --threshold=250 --accesslog=/tmp/access.log";
 
 		boolean error = true;
 		if (args.length == 4) {

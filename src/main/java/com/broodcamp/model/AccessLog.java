@@ -21,7 +21,7 @@ import com.broodcamp.utils.DateUtils;
  */
 @Entity
 @Table(name = "access_log")
-@NamedQueries({ @NamedQuery(name = "AccessLog.filter", query = "SELECT new com.ef.model.BlockIp(ip, count(id))" //
+@NamedQueries({ @NamedQuery(name = "AccessLog.filter", query = "SELECT new com.broodcamp.model.BlockIp(ip, count(id))" //
 		+ " FROM AccessLog" //
 		+ " WHERE log_date BETWEEN :startDate" //
 		+ " AND :endDate" //
