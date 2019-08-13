@@ -15,7 +15,7 @@ import javax.persistence.Table;
 import com.broodcamp.utils.DateUtils;
 
 /**
- * @author Edward P. Legaspi
+ * @author Edward P. Legaspi <czetsuya@gmail.com>
  * 
  *         Entity class where access logs are stored.
  */

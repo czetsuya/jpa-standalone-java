@@ -19,7 +19,7 @@ import com.broodcamp.persistence.PersistenceManager;
 import com.broodcamp.utils.DateUtils;
 
 /**
- * @author Edward P. Legaspi
+ * @author Edward P. Legaspi <czetsuya@gmail.com>
  * 
  *         Service class that do the reading, processing and saving of log file.
  */

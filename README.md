@@ -52,7 +52,7 @@ Where
 
 ## Authors
 
-* **Edward P. Legaspi** - *Software Architect* - [czetsuya](https://github.com/czetsuya)
+* **Edward P. Legaspi <czetsuya@gmail.com>** - *Software Architect* - [czetsuya](https://github.com/czetsuya)
 
 ## License
 

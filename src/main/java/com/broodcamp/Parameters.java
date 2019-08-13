@@ -7,7 +7,7 @@ import com.broodcamp.model.DurationEnum;
 import com.broodcamp.utils.DateUtils;
 
 /**
- * @author Edward P. Legaspi
+ * @author Edward P. Legaspi <czetsuya@gmail.com>
  * 
  * Command line parameters.
  */

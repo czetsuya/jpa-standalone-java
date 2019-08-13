@@ -3,7 +3,7 @@ package com.broodcamp;
 import com.broodcamp.model.DurationEnum;
 
 /**
- * @author Edward P. Legaspi
+ * @author Edward P. Legaspi <czetsuya@gmail.com>
  * 
  *         The main runnable class.
  */
