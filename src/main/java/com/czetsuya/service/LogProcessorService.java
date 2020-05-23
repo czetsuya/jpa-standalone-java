@@ -1,4 +1,4 @@
-package com.broodcamp;
+package com.czetsuya.service;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -12,11 +12,13 @@ import java.util.regex.Pattern;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 
-import com.broodcamp.model.AccessLog;
-import com.broodcamp.model.BlockIp;
-import com.broodcamp.model.DurationEnum;
-import com.broodcamp.persistence.PersistenceManager;
-import com.broodcamp.utils.DateUtils;
+import com.czetsuya.Parameters;
+import com.czetsuya.Parser;
+import com.czetsuya.model.AccessLog;
+import com.czetsuya.model.BlockIp;
+import com.czetsuya.model.DurationEnum;
+import com.czetsuya.persistence.PersistenceManager;
+import com.czetsuya.utils.DateUtils;
 
 /**
  * @author Edward P. Legaspi <czetsuya@gmail.com>

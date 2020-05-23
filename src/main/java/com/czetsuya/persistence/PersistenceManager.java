@@ -1,4 +1,4 @@
-package com.broodcamp.persistence;
+package com.czetsuya.persistence;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

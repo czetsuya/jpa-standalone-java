@@ -1,4 +1,4 @@
-package com.broodcamp.model;
+package com.czetsuya.model;
 
 import java.text.ParseException;
 import java.util.Date;
@@ -12,7 +12,7 @@ import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 
-import com.broodcamp.utils.DateUtils;
+import com.czetsuya.utils.DateUtils;
 
 /**
  * @author Edward P. Legaspi <czetsuya@gmail.com>

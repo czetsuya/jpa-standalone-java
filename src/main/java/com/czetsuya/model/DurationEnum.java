@@ -1,4 +1,4 @@
-package com.broodcamp.model;
+package com.czetsuya.model;
 
 /**
  * @author Edward P. Legaspi <czetsuya@gmail.com>

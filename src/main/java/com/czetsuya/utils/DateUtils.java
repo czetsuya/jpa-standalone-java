@@ -1,4 +1,4 @@
-package com.broodcamp.utils;
+package com.czetsuya.utils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

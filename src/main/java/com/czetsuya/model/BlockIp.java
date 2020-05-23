@@ -1,4 +1,4 @@
-package com.broodcamp.model;
+package com.czetsuya.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

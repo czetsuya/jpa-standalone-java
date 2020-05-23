@@ -1,10 +1,10 @@
-package com.broodcamp;
+package com.czetsuya;
 
 import java.text.ParseException;
 import java.util.Date;
 
-import com.broodcamp.model.DurationEnum;
-import com.broodcamp.utils.DateUtils;
+import com.czetsuya.model.DurationEnum;
+import com.czetsuya.utils.DateUtils;
 
 /**
  * @author Edward P. Legaspi <czetsuya@gmail.com>

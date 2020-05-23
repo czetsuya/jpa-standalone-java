@@ -1,6 +1,7 @@
-package com.broodcamp;
+package com.czetsuya;
 
-import com.broodcamp.model.DurationEnum;
+import com.czetsuya.model.DurationEnum;
+import com.czetsuya.service.LogProcessorService;
 
 /**
  * @author Edward P. Legaspi <czetsuya@gmail.com>
